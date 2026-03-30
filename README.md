@@ -1,5 +1,6 @@
 # Sigma-Web-Dev-Course
 📈 Learning in public — documenting consistency, not perfection.
+
 This repository captures my complete journey through the Sigma Web Development Course by CodeWithHarry, where I am building a strong foundation in full-stack web development. It serves as a structured record of my progress, including hands-on implementations, practice exercises, and project-based learning.
 
 Throughout this journey, I explore and apply core web technologies such as HTML, CSS, and JavaScript, along with modern development tools and best practices. Each section of this repository reflects my understanding of concepts, problem-solving approach, and ability to translate theory into practical solutions.
